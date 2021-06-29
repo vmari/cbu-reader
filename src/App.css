@@ -1,38 +1,43 @@
-.App {
+body {
   text-align: center;
+  background-color: #fafafa; /*el diegote*/
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.content {
+  max-width: 600px;
+  padding: 20px;
+  margin: 0 auto;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.status {
+  max-width: 200px;
+  padding: 20px;
+  margin: 0 auto;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+.progress {
+  background-color: rgb(229, 233, 235);
+  height: 5px;
+  border-radius: 5px;
+  position: relative;
+  width: 100%;
+  border-color: blue;
 }
 
-.App-link {
-  color: #61dafb;
+.progress-bar-blue {
+  background-size: 23em 0.25em;
+  height: 100%;
+  position: relative;
+  background-color: #337ab7;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.disclaimer {
+  font-size: 12px;
+}
+
+input {
+  width: 100%;
+  max-width: 200px;
+  display: block;
+  margin: 0 auto;
 }
