@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.d66cd433.chunk.css",
-    "main.js": "/static/js/main.1f28330b.chunk.js",
-    "main.js.map": "/static/js/main.1f28330b.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.24d01739.js",
-    "runtime-main.js.map": "/static/js/runtime-main.24d01739.js.map",
-    "static/css/2.9a47764a.chunk.css": "/static/css/2.9a47764a.chunk.css",
-    "static/js/2.08e0dc84.chunk.js": "/static/js/2.08e0dc84.chunk.js",
-    "static/js/2.08e0dc84.chunk.js.map": "/static/js/2.08e0dc84.chunk.js.map",
-    "static/js/3.156eefcd.chunk.js": "/static/js/3.156eefcd.chunk.js",
-    "static/js/3.156eefcd.chunk.js.map": "/static/js/3.156eefcd.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/2.9a47764a.chunk.css.map": "/static/css/2.9a47764a.chunk.css.map",
-    "static/css/main.d66cd433.chunk.css.map": "/static/css/main.d66cd433.chunk.css.map",
-    "static/js/2.08e0dc84.chunk.js.LICENSE.txt": "/static/js/2.08e0dc84.chunk.js.LICENSE.txt"
+    "main.css": "/cbu-reader/static/css/main.d66cd433.chunk.css",
+    "main.js": "/cbu-reader/static/js/main.1f28330b.chunk.js",
+    "main.js.map": "/cbu-reader/static/js/main.1f28330b.chunk.js.map",
+    "runtime-main.js": "/cbu-reader/static/js/runtime-main.1ec896dd.js",
+    "runtime-main.js.map": "/cbu-reader/static/js/runtime-main.1ec896dd.js.map",
+    "static/css/2.9a47764a.chunk.css": "/cbu-reader/static/css/2.9a47764a.chunk.css",
+    "static/js/2.05323714.chunk.js": "/cbu-reader/static/js/2.05323714.chunk.js",
+    "static/js/2.05323714.chunk.js.map": "/cbu-reader/static/js/2.05323714.chunk.js.map",
+    "static/js/3.156eefcd.chunk.js": "/cbu-reader/static/js/3.156eefcd.chunk.js",
+    "static/js/3.156eefcd.chunk.js.map": "/cbu-reader/static/js/3.156eefcd.chunk.js.map",
+    "index.html": "/cbu-reader/index.html",
+    "static/css/2.9a47764a.chunk.css.map": "/cbu-reader/static/css/2.9a47764a.chunk.css.map",
+    "static/css/main.d66cd433.chunk.css.map": "/cbu-reader/static/css/main.d66cd433.chunk.css.map",
+    "static/js/2.05323714.chunk.js.LICENSE.txt": "/cbu-reader/static/js/2.05323714.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.24d01739.js",
+    "static/js/runtime-main.1ec896dd.js",
     "static/css/2.9a47764a.chunk.css",
-    "static/js/2.08e0dc84.chunk.js",
+    "static/js/2.05323714.chunk.js",
     "static/css/main.d66cd433.chunk.css",
     "static/js/main.1f28330b.chunk.js"
   ]
